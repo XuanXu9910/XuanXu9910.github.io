@@ -1,46 +1,13 @@
-# Sample blog post
+# 個人簡介和申請動機
 
-#### April 1, 2020 by [Olivier](/)
+#### ==就一句話~我是來學數學的==
 
-This blog post shows a few different types of content that are supported and styled with
-Material styles. Basic typography, images, and code are all supported.
-You can extend these by modifying `Markdown.js`.
+我是 Alan，考大學時想要離家遠一點，所以選擇了一間離家有點遠的資管系就讀，也很幸運自己搭上了資訊與人工智慧的熱潮。期間我學習了**程式設計**、**資料結構/演算法**、**資料庫**、**網頁開發**、**大數據**等課程。說實話這些課程現在回頭看雖然粗淺，但卻奠定了我良好的資訊能力基礎。大學四年間，因為受到教授的信任，我擔任了**連續三年的 JAVA 程式設計助教**。
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+碩班則是來到了**台科大智慧製造科技所**，在此期間我開始正式接觸許多**機器學習**與**深度學習**的內容，也在實驗室接下了許多產學合作案件，有比較偏向管理類**PM**的部分，也有技術導向的**APP 開發**，近期更主導了**LLM 專案**以及**國科會計畫**。除了學習技術，我喜歡與人分享我的學習心得，也因此擔任過校內外多項課程的講師與助教，校外活動也剛卸下**第六屆 AWS Educate 技術大使**。
 
-Curabitur blandit tempus porttitor. **Nullam quis risus eget urna mollis** ornare vel eu leo.
-Nullam id dolor id nibh ultricies vehicula ut id elit.
+如果說為什麼我會想參與這樣的計畫，我想很單純的，**我真的是來學習數學知識的**。在我碩士兩年的學習歷程中，因為接觸到許多需要撰寫機器學習或深度學習程式的狀況，對於我來說學習程式技術需要花費時間，但不至於太過困難。可在這段期間，我常常有**會寫程式卻不懂數學原理**的困擾。這也導致往往我**只能展開應用卻無法深入探討模型架構的窘境**。
 
-Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum.
-Aenean lacinia bibendum nulla sed consectetur.
+如果沒有意外，再一個月我就畢業了，這陣子想了好多，也與許多業界前輩討論。也許是從大學的純資訊領域，一直到研究所接觸各式工管、數據分析、生程式 AI、雲端領域，對於未來我可能已經清楚自己想要些什麼，我告訴自己要**朝 AI 新創產業發展**。也因此我希望將 AI 的基礎底子打好，我想這就是我想要申請的理由。
 
-## Heading
-
-Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
-Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
-Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-### Sub-heading
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-### Sub-heading
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod.
-Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo
-sit amet risus.
-
-- Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-- Donec id elit non mi porta gravida at eget metus.
-- Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1.  Vestibulum id ligula porta felis euismod semper.
-2.  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3.  Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+---
