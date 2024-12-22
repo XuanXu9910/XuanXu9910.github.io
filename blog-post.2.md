@@ -2,6 +2,8 @@
 
 #### ==故事講完了，現在該列出我所做過的事情了==
 
+# [**作品集點這裡**](https://drive.google.com/file/d/1Y2q40o7Sun2Ux50Xy3I863O2lb5PIepf/view?usp=sharing)
+
 ## **_實習與活動--IT、雲端技術_**
 
 ### **GARMIN -- IT Intern | 2024/7~2024/9**
@@ -14,7 +16,7 @@
 
 ### **AWS Educate -- Cloud Ambassador Tech Support | 2024/3~2024/10**
 
-- **AWS Certified Cloud Practitioner**(雲端證照)。
+- **AWS Certified Cloud Practitioner**[(**雲端證照連結**)](https://drive.google.com/file/d/18ySGfn0Kk2vY2aQEAxmd_IlvYjHWO0y2/view?usp=sharing)。
 - 擔任 **Community Day 2024** 講者並接受**科技媒體採訪**[(**採訪連結點這裡**)](https://www.technice.com.tw/cloudtech/143962/)。
 - 參與心理測驗系統開發 **(AWS Serverless/CICD 服務)**，兩週內吸引 7770 人次使用。
 - 本人**主講工作坊**，線上直播約 800 點閱次數，超過 150 人實體參加。
@@ -53,3 +55,5 @@
 - 使用 **Azure** 之影像辨識、聲音辨識等雲端服務。
 - 負責**前端開發**與**雲端服務**技術串接。
 - **於「資訊應用組」、「Azure 雲端應用組」進入全國總決賽**。
+
+---

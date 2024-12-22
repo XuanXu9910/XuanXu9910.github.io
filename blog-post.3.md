@@ -1,17 +1,26 @@
 # 如果參與這個訓練，會怎麼安排學習時間？
 
-#### March 14, 2020 by [Tom](/)
+#### ==雖然畢業了，但我還是想花時間把數學給搞定==
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod.
-Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh,
-ut fermentum massa justo sit amet risus.
+此計畫開始的時間應該是我畢業之後，在此期間我預計邊找工作，邊參與這個訓練。
 
-- Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-- Donec id elit non mi porta gravida at eget metus.
-- Nulla vitae elit libero, a pharetra augue.
+## **短期 (第一階段、第二階段)**
 
-Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum.
-Aenean lacinia bibendum nulla sed consectetur.
+前兩階段因為數學比重比較多，因此預計會花費大量時間來打基礎。
+剩餘時間則是學習其他專業技能。
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+- 線性代數學習(3HR)
+- 神經網路建置學習(2HR)
+- 雲端技能或其他學習(2HR)
+- 尋找適合工作
+
+<img src="time.svg" alt="示例圖片" width="500" height="500">
+
+## **中期 (第三階段)**
+
+三階段因為是實際運用，對於我來說負擔應該會較輕。因此會加重其他技能學習以及就業。
+
+- 課程專案開發學習
+- 其他
+
+---
